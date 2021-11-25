@@ -1,2 +1,6 @@
-# subscribe.java
-about first java program
+class subscribe {
+    public static void main(String[] args) {
+        System.out.println("subscribe");
+        System.out.println("subscribe");
+    }
+}
